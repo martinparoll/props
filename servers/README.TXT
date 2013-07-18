@@ -1,0 +1,7 @@
+This directory contains properties files for all servers in this group.
+
+Files that you can put here:
+ * <server name>.properties - properties defined here are used for pre-processing the
+                      application archive before deploying or updating (server-scope)
+ * <server name>.liverebel_daemon.properties - LiveRebel agent daemon settings (server-scope)
+ 
